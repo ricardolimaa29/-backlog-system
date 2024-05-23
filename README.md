@@ -12,13 +12,14 @@ Este sistema foi criado para fins de notificar ao usuario suas 'PENDENCIAS' do d
 <h4>Vocês poderam utilizar tanto o requeriments ou realizar a instalação manualmente com o Pip install + nome_da_biblioteca </h4>
 
 <h2>Utilidades</h2>
+<br>
 <h3>
-  - O sistema tem a funcionalidade de um CRUD comum, LER,CRIAR,EDITAR E EXCLUIR pendencias
-  - Alertas são gerados toda vez que o sistema inicializa, notificando os itens em 'PENDENTE'
-  - Os Alertas são gerados quando a 'Data registrada' + dias forem iguais ao dia atual do usuario
-    + 1° Aviso: 'data registrada' + 2 dias = 'dia_atual' ( datetime.now() )
-    + 2° Aviso: 'data registrada' + 3 dias = 'dia_atual' ( datetime.now() )
-  - Registros: podendo deixar todos os FORNECEDORES 'CONFIRMADOS', nao irá notificar o usuario
+  - O sistema tem a funcionalidade de um CRUD comum, LER,CRIAR,EDITAR E EXCLUIR pendencias<br>
+  - Alertas são gerados toda vez que o sistema inicializa, notificando os itens em 'PENDENTE'<br>
+  - Os Alertas são gerados quando a 'Data registrada' + dias forem iguais ao dia atual do usuario<br>
+    + 1° Aviso: 'data registrada' + 2 dias = 'dia_atual' ( datetime.now() )<br>
+    + 2° Aviso: 'data registrada' + 3 dias = 'dia_atual' ( datetime.now() )<br>
+  - Registros: podendo deixar todos os FORNECEDORES 'CONFIRMADOS', nao irá notificar o usuario<br>
 </h3>
 
 <h1>Telas do sistema:</h1>
