@@ -26,9 +26,11 @@ Este sistema foi criado para fins de notificar ao usuario suas 'PENDENCIAS' do d
 <h1>Telas do sistema:</h1>
 
   <h2>Editando</h2>
+  
 ![editando](https://github.com/ricardolimaa29/-backlog-system/assets/147922620/97467b70-3a4d-4482-9ab8-a02132238ade)
 
   <h2>Salvando</h2>
+  
 ![salvando](https://github.com/ricardolimaa29/-backlog-system/assets/147922620/2445dd94-77e0-4610-b2d0-91db81541d3e)
 
   <h2>Excluindo</h2>
