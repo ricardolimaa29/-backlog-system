@@ -37,3 +37,8 @@ Este sistema foi criado para fins de notificar ao usuario suas 'PENDENCIAS' do d
 
 ![deletando](https://github.com/ricardolimaa29/-backlog-system/assets/147922620/36e981e1-dbcf-405c-aecf-a5b3f0c22352)
 
+<h2>Avisos</h2>
+
+![aviso](https://github.com/ricardolimaa29/-backlog-system/assets/147922620/0e9ea76a-219a-4521-bff6-97e60a3f34f3)
+
+
