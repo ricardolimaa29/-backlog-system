@@ -9,7 +9,7 @@ Este sistema foi criado para fins de notificar ao usuario suas 'PENDENCIAS' do d
 
 
 <h3>Bibliotecas utilizadas foram anexadas ao requeriments.txt</h3>
-<h4>Vocês poderam utilizar tanto o requiriments ou realizar a instalação manualmente com o Pip install + nome_da_biblioteca </h4>
+<h4>Vocês poderam utilizar tanto o requeriments ou realizar a instalação manualmente com o Pip install + nome_da_biblioteca </h4>
 
 <h2>Utilidades</h2>
 <h3>
