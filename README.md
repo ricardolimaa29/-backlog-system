@@ -16,9 +16,9 @@ Este sistema foi criado para fins de notificar ao usuario suas 'PENDENCIAS' do d
 <h3>
   - O sistema tem a funcionalidade de um CRUD comum, LER,CRIAR,EDITAR E EXCLUIR pendencias<br>
   - Alertas são gerados toda vez que o sistema inicializa, notificando os itens em 'PENDENTE'<br>
-  - Os Alertas são gerados quando a 'Data registrada' + dias forem iguais ao dia atual do usuario<br>
-    <h4>+ 1° Aviso: 'data registrada' + 2 dias = 'dia_atual' ( datetime.now() )</h4><br>
-    <h4>+ 2° Aviso: 'data registrada' + 3 dias = 'dia_atual' ( datetime.now() )</h4><br>
+  - Os Alertas são gerados quando a 'Data registrada' + dias forem iguais ao dia atual do usuario
+    <h4>+ 1° Aviso: 'data registrada' + 2 dias = 'dia_atual' ( datetime.now() )</h4>
+    <h4>+ 2° Aviso: 'data registrada' + 3 dias = 'dia_atual' ( datetime.now() )</h4>
   - Registros: podendo deixar todos os FORNECEDORES 'CONFIRMADOS', nao irá notificar o usuario<br>
 </h3>
 
