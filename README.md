@@ -43,7 +43,8 @@ Este sistema foi criado para fins de notificar ao usuario suas 'PENDENCIAS' do d
 
 <h2>-Neste ultimo Commit-</h2>
 
-![Captura de tela 2024-05-31 164720](https://github.com/ricardolimaa29/-backlog-system/assets/147922620/b06b5f44-7488-4f9e-852e-700cb361505f)
+![Captura de tela 2024-05-31 164720](https://github.com/ricardolimaa29/-backlog-system/assets/147922620/c3a93dee-55e3-4e4d-99d6-6becbcc4b9c3)
+
 
  <h3>Agora foi inserido a função que da foco nas linhas com prazos a vencer.</h3><br>
 <h3>Amarelo = Prazo de 2 dias com status 'PENDENTE'</h3><br>
