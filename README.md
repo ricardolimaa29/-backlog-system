@@ -41,4 +41,11 @@ Este sistema foi criado para fins de notificar ao usuario suas 'PENDENCIAS' do d
 
 ![aviso](https://github.com/ricardolimaa29/-backlog-system/assets/147922620/0e9ea76a-219a-4521-bff6-97e60a3f34f3)
 
+<h2>-Neste ultimo Commit-</h2>
 
+![Captura de tela 2024-05-31 164720](https://github.com/ricardolimaa29/-backlog-system/assets/147922620/b06b5f44-7488-4f9e-852e-700cb361505f)
+
+ <h3>Agora foi inserido a função que da foco nas linhas com prazos a vencer.</h3><br>
+<h3>Amarelo = Prazo de 2 dias com status 'PENDENTE'</h3><br>
+<h3>Vermelho = Prazo de 3 dias com status 'PENDENTE'</h3><br>
+<h4>OBS: Se o 'status' = 'CONFIRMADO' os alertas nao se aplicam.</h4>
